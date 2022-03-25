@@ -1,0 +1,19 @@
+* {
+    font-family:'Segoe UI'
+}
+
+h1 {
+    font-size: 60;
+    margin: 0 auto;
+}
+
+.checklist {
+    font-size: 20;
+    margin-left: 10px;
+}
+
+#borkins {
+    height: 178.5px;
+    width: 346px;
+
+}
